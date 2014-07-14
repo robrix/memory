@@ -1,6 +1,6 @@
 # Writing
 
-- Brevity is the soul of wit
+- “Brevity is the soul of wit”
 
 - Edit ruthlessly ; what is worth leaving in?
 
@@ -9,3 +9,5 @@
 - Hard things are hard
 
 - Know your advice
+
+- “write drunk, edit sober”
