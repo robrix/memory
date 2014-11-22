@@ -2,6 +2,6 @@
 
 I am offloading some of my memory onto this repo.
 
-- [Eventual](https://github.com/robrix/memory/tree/master/eventually)
-- [Recurring](https://github.com/robrix/memory/tree/master/recurring)
-- [Topics](https://github.com/robrix/memory/tree/master/topics)
+- [Things I want to do at some point](https://github.com/robrix/memory/tree/master/eventually)
+- [Recurring tasks](https://github.com/robrix/memory/tree/master/recurring)
+- [Some collected thoughts on specific topics](https://github.com/robrix/memory/tree/master/topics)
