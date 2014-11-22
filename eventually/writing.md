@@ -1,6 +1,6 @@
 # Things to write about
 
-- [ ] The design of [Traversal](https://github.com/robrix/Traversal), including [non-recursive left folds as described by Oleg Kiselyov](http://okmij.org/ftp/Haskell/fold-stream.lhs)
+- [x] The design of [Traversal](https://github.com/robrix/Traversal), including [non-recursive left folds as described by Oleg Kiselyov](http://okmij.org/ftp/Haskell/fold-stream.lhs). [Underway](https://github.com/robrix/memory/blob/master/writing/folds.md).
 
 - [ ] When & why Swift’s associated types being [functional dependencies](https://www.haskell.org/haskellwiki/Functional_dependencies) (vs. higher-kinded types) isn’t enough
 
