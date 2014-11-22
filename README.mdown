@@ -1,3 +1,7 @@
 # Memory
 
 I am offloading some of my memory onto this repo.
+
+- [Eventual](https://github.com/robrix/memory/tree/master/eventually)
+- [Recurring](https://github.com/robrix/memory/tree/master/recurring)
+- [Topics](https://github.com/robrix/memory/tree/master/topics)
