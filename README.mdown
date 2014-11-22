@@ -5,3 +5,4 @@ I am offloading some of my memory onto this repo.
 - [Things I want to do at some point](https://github.com/robrix/memory/tree/master/eventually)
 - [Recurring tasks](https://github.com/robrix/memory/tree/master/recurring)
 - [Some collected thoughts on specific topics](https://github.com/robrix/memory/tree/master/topics)
+- [Notes on things I’ve read](https://github.com/robrix/memory/tree/master/reading)
