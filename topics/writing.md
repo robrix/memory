@@ -2,7 +2,7 @@
 
 - “Brevity is the soul of wit”
 
-- Edit ruthlessly ; what is worth leaving in?
+- Edit ruthlessly; what is worth leaving in?
 
 - Don’t use four words when two would do
 
