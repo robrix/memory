@@ -1,5 +1,6 @@
 - [ ] Enumeration
 - [ ] What folds are
+- [ ] Right and left folds
 - [ ] Why folds are universal
 - [ ] Following Oleg Kiselyov, generalizing to early termination
 - [ ] Following Oleg Kiselyov, generalizing to nonrecursion
