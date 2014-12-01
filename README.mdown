@@ -7,3 +7,4 @@ I am offloading some of my memory onto this repo.
 - [Some collected thoughts on specific topics](https://github.com/robrix/memory/tree/master/topics)
 - [Notes on things I’ve read](https://github.com/robrix/memory/tree/master/reading)
 - [Things I have written/am writing](https://github.com/robrix/memory/tree/master/writing)
+- [Code I have written or could write](https://github.com/robrix/memory/tree/master/code)
