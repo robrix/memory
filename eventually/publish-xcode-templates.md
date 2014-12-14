@@ -11,6 +11,7 @@ I’m quite fond of my Xcode project and file templates. I should publish them s
 
 - [ ] Dropdown to select a `LICENSE` file.
 - [ ] Pre-populate `README.md` with installation instructions.
+- [ ] `.xcworkspace`.
 
 
 ### Files
